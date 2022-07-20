@@ -2,4 +2,4 @@
 /JsonParser.class
 /properties/
 /properties/*
-./properties/*
+*.properties
