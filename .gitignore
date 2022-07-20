@@ -1,5 +1,4 @@
 /App.class
 /JsonParser.class
 /properties/
-/properties/*
-*.properties
+config.properties
