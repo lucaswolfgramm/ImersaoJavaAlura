@@ -42,6 +42,6 @@ public class GeradorFigurinhas {
         graphics.drawRect(0, 0, largura, novaAltura);
         // graphics.setStroke(strokeOriginal);
 
-        ImageIO.write(novaImagem, "png", new File("src/img/" + nomeArquivo + ".png"));
+        ImageIO.write(novaImagem, "png", new File("src/imgTratadas/" + nomeArquivo + ".png"));
     }
 }
